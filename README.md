@@ -1,1 +1,1 @@
-# otus_python_qa
+# Repository for Otus Python QA Engineer course assignments
